@@ -17,8 +17,11 @@ The technical objectives will be implemented in Python. The system must be able 
 - Matplot lib
 - Tensorflow
 
-# Snapshots of project
+# Snapshots of the project
 ![image](https://github.com/AyushiSahu18/Bharat-Intern-Task-1/assets/129952366/6e7f2dc7-a826-4c29-822e-33163532d55b)
+
+![image](https://github.com/AyushiSahu18/Bharat-Intern-Task-1/assets/129952366/1e7c281f-91d4-4195-b98b-d52a7fd1833b)
+
 
 
 

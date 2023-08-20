@@ -10,7 +10,7 @@ Take the stock price of any company you want and predict its price by using LSTM
 # Technical objectives
 The technical objectives will be implemented in Python. The system must be able to access a list of historical prices. It must calculate the estimated price of stock based on the historical data for the next 30 days. It must also provide an instantaneous visualization of the market index in a neatly formatted Python-Based Web App.
 
-# Libraries used are
+# Libraries used
 - Pandas 
 - Numpy
 - Sklearn

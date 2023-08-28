@@ -22,14 +22,3 @@ The technical objectives will be implemented in Python. The system must be able 
 
 ![image](https://github.com/AyushiSahu18/Bharat-Intern-Task-1/assets/129952366/1e7c281f-91d4-4195-b98b-d52a7fd1833b)
 
-# Observations
-- The chances of female survival are more than male
-- 891 passengers travelling in the Titanic ship
-- 62% of passengers died in Titanic Incident
-- Most of the passengers (491) travelling through class 3
-- Out of the total number of passengers travelling, most of the passengers are male.
-- 64% are male passengers
-- Maximum passengers are travelling alone
-- Most of passengers travelling in Titanic having age in the range of 20 to 40
-- Most of passengers died from class 3
-- More female survived in Titanic Incident
